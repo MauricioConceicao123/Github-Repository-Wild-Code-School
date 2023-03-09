@@ -13,6 +13,8 @@ INSERT INTO `wild_db_quest`.`wizard` (`firstname`, `lastname`, `birthday`, `birt
 INSERT INTO `wild_db_quest`.`wizard` (`firstname`, `lastname`, `birthday`, `birth_place`, `biography`, `is_muggle`) VALUES ('tom', 'jÃ©dusor', '1926-12-31', '', 'Celui-Dont-On-Ne-Doit-Pas-Prononcer-Le-Nom alias Voldermort', '0');
 INSERT INTO `wild_db_quest`.`wizard` (`firstname`, `lastname`, `birthday`, `birth_place`, `biography`, `is_muggle`) VALUES ('dudley', 'dursley', '1980-06-23', '', 'Cousin d\'Harry', '1');
 
+/** I like bananas **/
+
 SHOW TABLES;
 DESCRIBE wizard;
 
